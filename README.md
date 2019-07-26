@@ -2,7 +2,7 @@
 
 Hello.
 
-## [Ask me anything](https://github.com/prashanth1k/techformist/issues)
+>> ### [Ask me anything](https://github.com/prashanth1k/techformist/issues) << 
 .. relevant that is.
 Yes, I use GitHub for AMA. :). [Twitter](https://twitter.com/techformist) is so old school.
 
