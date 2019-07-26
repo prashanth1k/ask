@@ -6,11 +6,11 @@ Hello.
 .. relevant that is.
 Yes, I use GitHub for AMA. :). [Twitter](https://twitter.com/techformist) is so old school.
 
-If you landed here by accident. Hello, again - my name is Prashanth Krishnamurthy. <br><br>I am/have -
-* a geek
-* spent a million years in enterprise software implementation
-* started one [company](https://pragital.com]
-* a believer in '42'
+If you landed here by accident. Hello, again - my name is Prashanth Krishnamurthy. <br><br>  I  -
+* am a geek
+* have spent a million years in enterprise software implementation
+* have started one [company](https://pragital.com]
+* am a believer in '42'
 
 I take interest in -
 * writing about web technology at [techformist.com](https://techformist.com)
