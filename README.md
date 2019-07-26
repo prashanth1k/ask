@@ -17,7 +17,7 @@ I take interest in -
 * creating web and mobile apps on Javascript, .NET and Laravel
 * writing more not-quite-popular books and many more not-so-amazing websites
 
-I am a big fan of collaboration for the sake of collaboration, CRM and streamlined activity management - so this. Creating issue here is an easy way to get my attention.
+I also am a big fan of collaboration for the sake of collaboration, CRM and streamlined activity management - so this. Creating issue here is an easy way to get my attention.
 
 * Questions
 * Comments
