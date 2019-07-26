@@ -1,4 +1,4 @@
-# Prashanth Krishnamurthy
+# Questions for me?
 
 Hello.
 
@@ -20,6 +20,7 @@ I take interest in -
 I am a big fan of collaboration for the sake of collaboration, CRM and streamlined activity management - so this. Creating issue here is an easy way to get my attention.
 
 * Questions
+* Comments
 * Problems
 * Brickbats
 
