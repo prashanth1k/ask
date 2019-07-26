@@ -5,7 +5,7 @@ Hello.
 Yes, I use GitHub for [AMA](https://github.com/prashanth1k/techformist/issues). :)<br>
 [Twitter](https://twitter.com/techformist) is so old school.
 
-My name is Prashanth Krishnamurthy. I -
+My name is Prashanth Krishnamurthy. <br>I -
 * am a geek
 * have spent a million years in enterprise software implementation
 * have started one [company](https://pragital.com]
